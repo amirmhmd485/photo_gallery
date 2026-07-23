@@ -47,6 +47,13 @@ http://localhost:8000
 2. Click the `get Photos` button.
 3. The gallery will render that many random images.
 
+
+## concetps 
+- DOM 
+- Fetching API 
+- async await 
+- Events
+
 ## Notes
 
 - The gallery is intentionally simple and beginner-friendly.
